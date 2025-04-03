@@ -1,0 +1,31 @@
+<!DOCTYUPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"
+content="width=device-width,
+initial-scale=1.0">
+<title>Zulmatdan yorug'lik sari</title>
+<link rel="stylesheet"href="style.css">
+</head>
+<body>
+<header>
+<h1>Assalomu alaykum!</h1>
+<header>
+
+<nav>
+<a href="#home">Bosh sahifa</a>
+<a href="#about">Biz haqimizda</a>
+<a href="#contact">Aloqa</a>
+</nav>
+
+<secition>
+<h2>SARLAVHA<h2>
+<p>O'z loyihaningiz haqida.</p>
+</section>
+
+<footer>
+<p>&copy;2025 Namangan</p>
+</footer>
+</body>
+</html>
